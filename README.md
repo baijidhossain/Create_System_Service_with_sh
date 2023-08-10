@@ -16,3 +16,11 @@
 #### [Install]
 #### WantedBy=multi-user.target
 
+## Create a new shfile (/var/www/adminPanel/sh_services/sendPendingMsg.sh) using a text editor
+
+#### #!/bin/bash
+
+#### cd /var/www/adminPanel/sh_services
+
+#### php send_pending_msg.php
+

@@ -1,4 +1,4 @@
-# Create_System_Service_with_sh
+# Create Systemd  Service with sh
 
 ## Create a new service file (/etc/systemd/system/service_name.service) using a text editor
 #### [Unit]
